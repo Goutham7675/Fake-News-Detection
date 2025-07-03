@@ -75,51 +75,42 @@ Accuracy achieved: ~93%
 ```bash
 git clone https://github.com/Goutham7675/Fake-News-Detection.git
 cd Fake-News-Detection
- 
-2. Install Dependencies
-bash
-Copy
-Edit
+```
+### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
-3. Train the Model
-bash
-Copy
-Edit
+```
+### 3. Train the Model
+```bash
 python main.py
-4. Predict Custom News
-bash
-Copy
-Edit
+```
+### 4. Predict Custom News
+```bash
 python predict.py
+````
 You'll be prompted to enter a news article or headline for prediction.
 
-📈 Output
-Model accuracy
+### 📈 Output
+**Model accuracy
 
 Confusion matrix visualization
 
 Predictions on test dataset
 
-Custom CLI predictions
+Custom CLI predictions**
 
-📌 Future Work
+### 📌 Future Work
 Integrate LSTM/Transformer-based models
 
 Add web interface with Flask or Streamlit
 
 Deploy model on Heroku/Netlify
 
-👨‍💻 Author
+### 👨‍💻 Developer
 Goutham Reddy
-🔗 LinkedIn
-📧 Email
 
 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
-
-yaml
-Copy
-Edit
 
 
 ---
