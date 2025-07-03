@@ -80,7 +80,7 @@ nltk==3.8.1
 notebook==7.3.2
 notebook_shim==0.2.4
 numba==0.61.0
-numpy==1.26.4
+numpy==1.21.3
 opt_einsum==3.4.0
 optree==0.11.0
 overrides==7.7.0
