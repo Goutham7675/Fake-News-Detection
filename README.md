@@ -91,13 +91,13 @@ python predict.py
 You'll be prompted to enter a news article or headline for prediction.
 
 ### 📈 Output
-**Model accuracy
+  1. Model accuracy
 
-Confusion matrix visualization
+  2. Confusion matrix visualization
 
-Predictions on test dataset
+  3. Predictions on test dataset
 
-Custom CLI predictions**
+  4. Custom CLI predictions
 
 ### 📌 Future Work
 Integrate LSTM/Transformer-based models
