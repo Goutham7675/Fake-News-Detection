@@ -33,7 +33,7 @@ A machine learning pipeline to detect fake news articles using natural language 
 ---
 
 ## 📂 Project Structure
-
+```bash
 Fake-News-Detection/
 ├── data/ # Contains train/test datasets
 ├── models/ # Saved ML models (.pkl)
@@ -45,7 +45,7 @@ Fake-News-Detection/
 ├── runtime.txt # Python version for Netlify (if deployed)
 └── README.md
 
-
+```
 ---
 
 ## 📊 Dataset
