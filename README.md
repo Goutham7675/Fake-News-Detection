@@ -65,7 +65,7 @@ The primary model used is:
   - Designed for large-scale online learning
   - Performs well in text classification tasks
 
-Accuracy achieved: ~95.75%
+Accuracy achieved: ~85.75%
 
 ---
 
